@@ -1,0 +1,13 @@
+name = "[Let's Do] API"
+filename = "doapi-1.1.1_fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4XJZeZbM/versions/iJQvwKt6/doapi-1.1.1_fabric.jar"
+hash-format = "sha512"
+hash = "d3a2537cab5aadcc14c467e7fd71964917976dfcbbe5001d3000382f95021221403a82dd7727f908bcd815c3ff8a7a9b09bb4a1449df6ffcc88e72f9bc3d74a4"
+
+[update]
+[update.modrinth]
+mod-id = "4XJZeZbM"
+version = "iJQvwKt6"

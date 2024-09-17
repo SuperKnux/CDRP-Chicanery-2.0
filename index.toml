@@ -121,6 +121,11 @@ hash = "286b3ecdd4d2979f6212d8733db9b30f228b25528fdc0a1c51cd6b47e89f3788"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "710fa9dd083ed2b59ba3a466ffc3bb93601bbfb00a22a0bd012446ffff8c8410"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "a50e7fff70d924c92f75b60730a35900c068b6f7f5c277d119d01bb9caf6dea9"
 metafile = true
@@ -243,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/desired-servers.pw.toml"
 hash = "4d5343dabb6373e3de46eb0dc459e75a940ae4fce47b902c065b96d20b745c53"
+metafile = true
+
+[[files]]
+file = "mods/do-api.pw.toml"
+hash = "6b87bcb240f0b644a4b76de151f94665e8e2b4365efbe404a20f2029229148df"
 metafile = true
 
 [[files]]
