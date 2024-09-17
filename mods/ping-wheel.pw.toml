@@ -1,13 +1,13 @@
-filename = 'Ping-Wheel-1.9.1-fabric-1.19.2.jar'
-name = 'Ping Wheel'
-side = 'both'
+name = "Ping Wheel"
+filename = "Ping-Wheel-1.9.1-fabric-1.19.2.jar"
+side = "both"
 
 [download]
-hash = 'c286e4b83f3aef4dca2ae0fad5cea1754f955e59'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha1"
+hash = "c286e4b83f3aef4dca2ae0fad5cea1754f955e59"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5467961
 project-id = 734339

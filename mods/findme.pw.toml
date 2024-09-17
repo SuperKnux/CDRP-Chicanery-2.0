@@ -1,13 +1,13 @@
-filename = 'findme-3.1.0-fabric.jar'
-name = 'FindMe'
-side = 'both'
+name = "FindMe"
+filename = "findme-3.1.0-fabric.jar"
+side = "both"
 
 [download]
-hash = 'c5856b0f02e9ff874448b5ddb4a53ba8226d59c8'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+url = "https://cdn.modrinth.com/data/rEuzehyH/versions/ckJ518Qt/findme-3.1.0-fabric.jar"
+hash-format = "sha512"
+hash = "2319d1e7d1e43b0c772004cf4e552dafea734184d8c8391a57ea35e486929ec88892d54ebf24820f9cccbfd333b3ae5e1b262ad2831487106ff610b08f490142"
 
-[update.curseforge]
-file-id = 3910004
-project-id = 291936
+[update]
+[update.modrinth]
+mod-id = "rEuzehyH"
+version = "ckJ518Qt"
