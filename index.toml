@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "6852c5660e8b1091694e5350f2cbb7fff8f0e067d5fb1581982d5c78f90a655c"
+
+[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "d86beab1176c367beeed3b8fb8a2a8dfbd8a1db7293f067c01bc38c73020e398"
 
@@ -1492,11 +1496,6 @@ metafile = true
 [[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
 hash = "069e62f464493152f906920c28ef6fd7ae508fad13759de74a439fed99dfb172"
-metafile = true
-
-[[files]]
-file = "mods/geckoanimfix.pw.toml"
-hash = "cdb4b75da8fb08da274d5f7114daf10403e66f2420b163f3de51ce661d8ade78"
 metafile = true
 
 [[files]]
