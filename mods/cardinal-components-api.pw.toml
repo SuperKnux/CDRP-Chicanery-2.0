@@ -1,6 +1,6 @@
 filename = 'cardinal-components-api-5.0.2.jar'
 name = 'Cardinal Components API'
-side = 'server'
+side = 'both'
 
 [download]
 hash = '812059d9cedda727f8835aad8bb8e336e82bbf0263f74d365b8254c90912fce80b50a0c3a2b85513b71a9391ea35e9ecc00cf2e9b592f187f4b36e56c7496afd'

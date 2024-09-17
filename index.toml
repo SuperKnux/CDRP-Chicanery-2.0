@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "c08629be1be4a750c118a5c09af1dde8306b7d27bfd13ae7b83a32829030b55b"
+hash = "f48f5edfbffe096467470ec1e447cd1c7b284c1235f666d9cd1fa7dc18ed1c5b"
 metafile = true
 
 [[files]]
