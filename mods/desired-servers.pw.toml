@@ -1,0 +1,13 @@
+name = "Desired Servers"
+filename = "desiredservers-fabric-1.19.2-1.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GDpe4LHD/versions/sECWH8mK/desiredservers-fabric-1.19.2-1.1.1.jar"
+hash-format = "sha512"
+hash = "cdd91cf9e59202d3566aabab0872e200f0a46f059b1cccae54ca5224d71e136663ef8abeccde6ad2f3e0cf9561e27380a0a5262e068da5a9b3bfd445a1288e6a"
+
+[update]
+[update.modrinth]
+mod-id = "GDpe4LHD"
+version = "sECWH8mK"

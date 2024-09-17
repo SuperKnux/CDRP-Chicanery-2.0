@@ -1325,6 +1325,11 @@ hash = "b10033b2a7adecf205df484b3efc4ac8e3ec7b6e7d6fdc2e462b699517ce6888"
 metafile = true
 
 [[files]]
+file = "mods/desired-servers.pw.toml"
+hash = "4d5343dabb6373e3de46eb0dc459e75a940ae4fce47b902c065b96d20b745c53"
+metafile = true
+
+[[files]]
 file = "mods/do-api.pw.toml"
 hash = "5a56ac23988672453a7079d036467642d63e2db7aee45c1e13f97c44e0b69d9a"
 metafile = true
