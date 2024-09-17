@@ -1,0 +1,13 @@
+name = "Simple Voice Chat"
+filename = "voicechat-quilt-1.19.2-2.4.16.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "52986cd5dee037eb523c55a0ab381a49e2f48ab0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4662208
+project-id = 416089

@@ -1,0 +1,23 @@
+{
+  "Mobs search radius (in blocks). Default Value - 65": 120,
+  "Block search radius (in blocks). Large values may result in lag issues. Default Value - 25": 40,
+  "Containers search radius (in blocks). Large values may result in lag issues. Default Value - 25": 40,
+  "How often the compass search target will be updated. Low values can cause SERIOUS performance problems. Default Value - 50": 50,
+  "How much XP will be drained from player when Compass is active? Default Value - 2": 2,
+  "How often experience will be spent for using the compass? Default Value - 300": 300,
+  "Will experience be drained for using the compass? Default Value - false": false,
+  "Prevents players from searching mobs based on their drops or Spawn Eggs. Default Value - false": false,
+  "Prevents players from searching containers (chests, furnaces, etc.) based on their contents. Default Value - false": false,
+  "Prevents players from searching for blocks. Default Value - false": false,
+  "Prevents players from searching Villagers based on their trade items. Default Value - false": false,
+  "Prevents players from searching items lying on the ground. Default Value - false": false,
+  "Prevents players from searching fluids based on their buckets. Default Value - false": false,
+  "Prevents players from searching spawners. Default Value - false": false,
+  "Prevents players from searching entities based on their inventories(minecarts). Default Value - false": false,
+  "Disable interaction with the JEI panel. Default Value - false": false,
+  "Setting the value to true will make the compass search for all objects except those specified in the list. Setting it to false will make the compass search only for objects listed in the list. Default Value - true": true,
+  "Items and blocks in this list will be filtered based on the filtering mode set above. Example: [\"minecraft.diamond_block\", \"minecraft.carrot\", \"twilightforest.cicada\"]": [],
+  "Items and blocks in this list will be filtered based on their tags. Example: [\"forge:stone\"]": [],
+  "Items and blocks in this list will be filtered based on their Mod Name. Example: [\"alexscaves\", \"ae2\", \"minecraft\"]": [],
+  "Entities in this list will be filtered based on their names. Example: [\"entity.minecraft.trader_llama\", \"entity.mowziesmobs.foliaath\"]": []
+}

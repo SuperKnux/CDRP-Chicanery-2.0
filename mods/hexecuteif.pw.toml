@@ -1,0 +1,13 @@
+name = "HexecuteIf"
+filename = "hexecuteif-fabric-1.19.2-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Uj82AMD7/versions/5dB8DUiC/hexecuteif-fabric-1.19.2-0.1.0.jar"
+hash-format = "sha512"
+hash = "3c3a04cee00468a3414379b570d24354e08bd882b2b5f0e180ce30077a69028239db2eb2a87c6c950b7354951fb1a15713e281ee561b93eb4d3d97f32419bd70"
+
+[update]
+[update.modrinth]
+mod-id = "Uj82AMD7"
+version = "5dB8DUiC"

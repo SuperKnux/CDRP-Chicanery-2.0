@@ -1,0 +1,13 @@
+name = "Xaero's Map Chest Tracker Integration"
+filename = "xaeros-map-chest-tracker-integration-mc1.19.2-v1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "268f2b6ce6e892b3a58780cd539969767c06b342"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4763029
+project-id = 899132

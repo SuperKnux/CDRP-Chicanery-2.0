@@ -1,0 +1,13 @@
+name = "Better Harvesting"
+filename = "betterharvesting-1.19.1-fabric-0.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c4d967288301c87ca201af404bdc69f2d106115d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4587987
+project-id = 856924

@@ -1,0 +1,13 @@
+name = "CC: VS"
+filename = "cc_vs-1.19.2-fabric-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5d62e033791df10de5de430516beeef98aa7113f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5373563
+project-id = 958065

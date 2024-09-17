@@ -1,0 +1,13 @@
+name = "Figura"
+filename = "figura-0.1.4+1.19.2-fabric-mc.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8c4979acb64ba07b4c737c521e75c21b8311ab52"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5213656
+project-id = 901503

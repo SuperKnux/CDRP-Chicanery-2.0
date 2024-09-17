@@ -1,0 +1,13 @@
+name = "Chest Tracker"
+filename = "chesttracker-1.19.2-1.1.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6a7e026b2da4d596f73e19312d34b014c35baedc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4074148
+project-id = 397217

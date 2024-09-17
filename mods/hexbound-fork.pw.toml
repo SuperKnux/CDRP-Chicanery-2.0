@@ -1,0 +1,13 @@
+name = "Hexbound (fork)"
+filename = "hexbound-0.1.4+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fd21be7b8cad4a306ff41e8fc53fa4e20095d38d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5413674
+project-id = 1034001

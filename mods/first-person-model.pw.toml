@@ -1,0 +1,13 @@
+name = "First-person Model"
+filename = "firstperson-fabric-2.4.5-mc1.19.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/H5XMjpHi/versions/t4v1PvXI/firstperson-fabric-2.4.5-mc1.19.2.jar"
+hash-format = "sha512"
+hash = "046a872ee925a76a730a2ca604ca3db8ecd7ae869e09486fa04ce629b301d5ca92e896891c2fcbbdb79e4cc0c7b1481c8126806a3534b7b18b80633d898956f6"
+
+[update]
+[update.modrinth]
+mod-id = "H5XMjpHi"
+version = "t4v1PvXI"

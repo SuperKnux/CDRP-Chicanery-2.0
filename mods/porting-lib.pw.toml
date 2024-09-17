@@ -1,0 +1,13 @@
+name = "Porting Lib"
+filename = "porting_lib-2.1.1308+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7dcb8d5f3dfca5971211a09b6f5de2156a2e500b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5226085
+project-id = 696251

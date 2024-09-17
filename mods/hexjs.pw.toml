@@ -1,0 +1,13 @@
+name = "HexJS"
+filename = "HexJS 1.1.1 [FABRIC].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2f63485e2dd398f36d77e04da1de90ab0986fa16"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5578286
+project-id = 1069164

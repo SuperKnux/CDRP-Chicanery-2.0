@@ -1,0 +1,13 @@
+name = "Online Emotes"
+filename = "online-emotes-2.1.2-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "19374dd3b902da3852cc39a183b829f099a08f3f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4774451
+project-id = 868230

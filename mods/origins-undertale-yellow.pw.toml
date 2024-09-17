@@ -1,0 +1,13 @@
+name = "Origins: Undertale Yellow"
+filename = "origins-undertale-yellow-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ycuZuPy7/versions/X4DdWB64/origins-undertale-yellow-0.1.0.jar"
+hash-format = "sha512"
+hash = "362fd9d4cf933e858b905f09fe2d28516a0c2152bfda50f3131af3be2bf128c263138d16af91d57f69dd0cffa6a271fa3d0c07fb61b92b2fcb222358ad17e14b"
+
+[update]
+[update.modrinth]
+mod-id = "ycuZuPy7"
+version = "X4DdWB64"

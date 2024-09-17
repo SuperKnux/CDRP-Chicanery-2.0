@@ -1,0 +1,13 @@
+name = "Oneironaut"
+filename = "oneironaut-fabric-1.19.2-0.3.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3e07af370cd48465f8074d1bc2995d803ef4ffcc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5602935
+project-id = 950318

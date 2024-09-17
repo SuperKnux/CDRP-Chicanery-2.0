@@ -1,0 +1,13 @@
+name = "[Let's Do Addon] Structures"
+filename = "letsdo-addon-structures-1.6.0_1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "77b664ebac2f6fe48039363696333a4f6583702f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5166314
+project-id = 967867
