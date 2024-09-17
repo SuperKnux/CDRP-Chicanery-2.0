@@ -412,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/gobber-fabric.pw.toml"
-hash = "6adb0f69bdc34ef5be2b13facd4cb7cbb3b53f38aba5b1cd62dca102fc4806a1"
+hash = "034161ea47e176b7cba4cb23b6883366fac6837fb1017f2112d3263675dc9deb"
 metafile = true
 
 [[files]]
@@ -864,7 +864,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "ab02cb9691040dd1b9d0686bdfaf52d1ef7ebaec2a9fdfc6d93d643481050c6a"
+hash = "6973d309acc4b0c86707ff446735908f727603ecf8db30992c3df22b90bf3504"
 metafile = true
 
 [[files]]
