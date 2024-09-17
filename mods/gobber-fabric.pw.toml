@@ -1,0 +1,13 @@
+name = "Gobber [FABRIC]"
+filename = "Gobber2-Fabric-1.19.2-2.6.63.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2a6aa9b1657f7189cc7e207e5f4f821f16cf7ce7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5346381
+project-id = 427177

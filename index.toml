@@ -411,6 +411,11 @@ hash = "f7ecac3773c2bc0a56ff8e3a5332abd382e64cd260d367daa56f89636330b744"
 metafile = true
 
 [[files]]
+file = "mods/gobber-fabric.pw.toml"
+hash = "034161ea47e176b7cba4cb23b6883366fac6837fb1017f2112d3263675dc9deb"
+metafile = true
+
+[[files]]
 file = "mods/gravity-api-1.0.3-1.19.2.jar"
 hash = "11666902225b132d66b09675cc3cb7bf596f62a0d35658cf1dad41a2a4fde33a"
 
@@ -1033,8 +1038,8 @@ hash = "f0facb569880fe8037ee774700229ad1c6c13b5444440b642b34bc5df7014c63"
 metafile = true
 
 [[files]]
-file = "mods/when-dungeons-arise-fabric.pw.toml"
-hash = "02d8b9d54f91185b19bd01256bae1393d10c00abe85e0b369e769601de7d0704"
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "bd438d1b8bfb3bcd49d97820ad6ac45e95818063be580654f8ddfb3e94055162"
 metafile = true
 
 [[files]]
