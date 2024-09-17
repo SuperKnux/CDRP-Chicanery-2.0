@@ -315,11 +315,6 @@ hash = "3dcf4e52ca05cf59183c543ff98a654464d61cda3cd8a6f00cc87317101532d1"
 metafile = true
 
 [[files]]
-file = "mods/emotetweaks.pw.toml"
-hash = "0e9a01da7dcec946a5bda200b5a28edba20b32a7a7012d9d8fdf376f46c55791"
-metafile = true
-
-[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "886c4d4f1531bbfb1da54fd785b8dab6dea7a5f245df425e9b2ee676d356701a"
 metafile = true
