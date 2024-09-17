@@ -2225,11 +2225,3 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "3543c9a638c6bed71990a51f9e894abe9d1a3713b2a885f13111ba8603e55adf"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "bf3e1d3fbd72e1e3c500fa6cf79f224b29fb427880ba8a751ad08f3be6425d44"
-
-[[files]]
-file = "servers.dat"
-hash = "402f24049554ff33c0d116110dac280a098118dfaa0b38f74a0404d72a1ad431"
