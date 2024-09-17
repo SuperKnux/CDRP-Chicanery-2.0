@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/desiredservers/desiredservers.json"
+hash = "939be15a35b032208688f1927fa84c3ee9f0dc969f48e42fad35281b00704ddd"
+
+[[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "99fc158548ea125528f625f7d98da6ba6b64d5a55555139e094e16a4b2122493"
 metafile = true
