@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/auth-me.pw.toml"
-hash = "14f6487cec8bf86ca0124058bd11d54120afd601ef613448c875536db137acc4"
+hash = "54d565834597fedbed4e3fc88b78e0208e3ab68e47e6e9c4470737d3e0fb377e"
 metafile = true
 
 [[files]]
@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "c9b76daddff5aef56e592d4081ad1759d5f34c92e67431b8ef57c5e3f1ce5213"
+hash = "829a68dc5ade33924ff4d95c2f61d4a0409ffe0064804d39c18392b1da6048a5"
 metafile = true
 
 [[files]]
@@ -506,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "7c3e839ecd643c10c6f905e193b6edc18c978e4be202a031cffd0b3a45266ece"
+hash = "90e0de2ccc3cc3559ac161a7e21ce964dc299015c7c0c662cd2c80dc5da6a465"
 metafile = true
 
 [[files]]
@@ -521,7 +521,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-highlighter-fabric.pw.toml"
-hash = "e9158e06a0563641b8bcf990fa789f0d30d896bc3a72522b048d3f0217c69e1b"
+hash = "dbcdf87ac077d9ba85d95adba8d65e67931a5d2600f36367d938ce5ed6c62293"
 metafile = true
 
 [[files]]
@@ -551,7 +551,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "57c09b8b9dbc975bf22acdd115f4cefca61708c9a15dc73e3720b3f514996072"
+hash = "da4b1d1d7f479f9fa67f610c93d687c26ebfc7d6ad6fb9a7f2bf7b3770f32faf"
 metafile = true
 
 [[files]]
@@ -984,12 +984,12 @@ metafile = true
 
 [[files]]
 file = "mods/too-many-binds.pw.toml"
-hash = "ceaab7b637c99965de3cdd0d7d63da6e10466ae9dee379446110a079e980482d"
+hash = "ba0e532e2ea19377f20bc9b75ed3ee32e2ffbc2e0eefbce9b66147b8edf26183"
 metafile = true
 
 [[files]]
 file = "mods/tooltipfix.pw.toml"
-hash = "562a374d4d9e358bb96e706c15b7ae58458024dc558b92d2bd7b5d5ddd1d45b3"
+hash = "f37c8b37a5b88c98a0d5a32baa237a4799bad178799790843953df937235fc36"
 metafile = true
 
 [[files]]
@@ -1019,7 +1019,7 @@ metafile = true
 
 [[files]]
 file = "mods/visuality.pw.toml"
-hash = "01dc190b2a4cb49aefc6b6bd3301ee6b186e9012c9fcb0a0f085554602901aae"
+hash = "4efc2bdee8f5841cb8602d59f40b93324a4c5f271984ce09d51b3c19df559a14"
 metafile = true
 
 [[files]]
@@ -1139,5 +1139,5 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "3543c9a638c6bed71990a51f9e894abe9d1a3713b2a885f13111ba8603e55adf"
+hash = "858cf7fb44a3478586d7e02e4e93dbaf1bbcd91096e029e9f8f10e1691e23fd1"
 metafile = true
