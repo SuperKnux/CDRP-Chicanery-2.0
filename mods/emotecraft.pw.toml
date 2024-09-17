@@ -1,13 +1,13 @@
-name = "Emotecraft (Fabric)"
-filename = "emotecraft-for-MC1.19.2-2.2.7-b.build.50-fabric.jar"
-side = "both"
+filename = 'emotecraft-for-MC1.19.2-2.2.7-b.build.50-fabric.jar'
+name = 'Emotecraft'
+side = 'both'
 
 [download]
-hash-format = "sha1"
-hash = "3c70b3485aeae6a9941d7d7962e8b878c958aea7"
-mode = "metadata:curseforge"
+hash = 'ebc5c04644928b3057272b22deffa84fce68d5cd5979047648a1441d3b0fab233b896d6a05f4455f647a1702137e0d2937dae0eb0703335b3cd71b7f57602a89'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pZ2wrerK/versions/pFGcytFI/emotecraft-for-MC1.19.2-2.2.7-b.build.50-fabric.jar'
 
-[update]
-[update.curseforge]
-file-id = 4632463
-project-id = 397809
+[update.modrinth]
+mod-id = 'pZ2wrerK'
+version = 'pFGcytFI'

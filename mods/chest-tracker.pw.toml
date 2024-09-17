@@ -1,13 +1,13 @@
-name = "Chest Tracker"
-filename = "chesttracker-1.19.2-1.1.18.jar"
-side = "both"
+filename = 'chesttracker-1.19.2-1.1.18.jar'
+name = 'Chest Tracker'
+side = 'client'
 
 [download]
-hash-format = "sha1"
-hash = "6a7e026b2da4d596f73e19312d34b014c35baedc"
-mode = "metadata:curseforge"
+hash = 'd731baea986140519c5389976c9b5d7b772cb49541a5046f34a35b65e6865c6021ec8fe079192822cf24f71e7a6ef2687318b02b65170374791ed0b0857a6a34'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ni4SrKmq/versions/2ZXKiOSh/chesttracker-1.19.2-1.1.18.jar'
 
-[update]
-[update.curseforge]
-file-id = 4074148
-project-id = 397217
+[update.modrinth]
+mod-id = 'ni4SrKmq'
+version = '2ZXKiOSh'

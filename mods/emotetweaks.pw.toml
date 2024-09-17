@@ -1,0 +1,13 @@
+filename = 'EmoteTweaks-3.0.1.18-fabric.jar'
+name = 'EmoteTweaks'
+side = 'both'
+
+[download]
+hash = 'f5ae78d607feb6df22438382700e4c051e1e664025a104ecf3fccb3d6fb9779f57067a5fbfc29cc87ce2b8d74436ba98ee283f9b593522f5a04fe2b9cdfbea44'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QfXPAsap/versions/R0MS1sJL/EmoteTweaks-3.0.1.18-fabric.jar'
+
+[update.modrinth]
+mod-id = 'QfXPAsap'
+version = 'R0MS1sJL'

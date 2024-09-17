@@ -1,13 +1,13 @@
-name = "Kettle"
-filename = "kettle-2.2.1+1.19.2.jar"
-side = "both"
+filename = 'kettle-2.2.1+1.19.2.jar'
+name = 'Kettle'
+side = 'both'
 
 [download]
-hash-format = "sha1"
-hash = "b03741f2011884228370dcb0c4cfa8fd82423396"
-mode = "metadata:curseforge"
+hash = '6d114a9cfcd1bc01371ee5f8d5ed1181cf4b70e9a7ed99466bdd076914bec498584d4024604b1f7064f9d51290f62e58c4ff9ad86a28f1f2c7e514359c4e8863'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/SRCaBfKA/versions/nZpbP0V2/kettle-2.2.1%2B1.19.2.jar'
 
-[update]
-[update.curseforge]
-file-id = 3942226
-project-id = 316905
+[update.modrinth]
+mod-id = 'SRCaBfKA'
+version = 'nZpbP0V2'

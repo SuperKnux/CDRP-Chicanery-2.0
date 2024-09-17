@@ -1,13 +1,13 @@
-name = "EMI"
-filename = "emi-1.1.13+1.19.2+fabric.jar"
-side = "both"
+filename = 'emi-1.1.13+1.19.2+fabric.jar'
+name = 'EMI'
+side = 'both'
 
 [download]
-hash-format = "sha1"
-hash = "39f8e3d825775687906ec0e5527f75a45a1020ec"
-mode = "metadata:curseforge"
+hash = '696153d6add49f677dc39f513ce07f8e50982dcb10674aa59d9ce3c9ab8708e6eccbbe0b9b7a094120f187596dca14fed14b890ba2be24edcfa041ade07602bc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fRiHVvU7/versions/25ETHU9h/emi-1.1.13%2B1.19.2%2Bfabric.jar'
 
-[update]
-[update.curseforge]
-file-id = 5704394
-project-id = 580555
+[update.modrinth]
+mod-id = 'fRiHVvU7'
+version = '25ETHU9h'

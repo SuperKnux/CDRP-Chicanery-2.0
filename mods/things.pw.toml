@@ -1,0 +1,13 @@
+filename = 'things-0.3.0+1.19.jar'
+name = 'Things'
+side = 'both'
+
+[download]
+hash = '0b6db9e6ba821949458fdb57c2a71edfe55ae68f04a6756600c0c16e7f890fcf7401f066b157b08a68d80963c0994ed408e1ae182741550915aa9842055804c7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/VzAGdu9D/versions/K59hNxSI/things-0.3.0%2B1.19.jar'
+
+[update.modrinth]
+mod-id = 'VzAGdu9D'
+version = 'K59hNxSI'

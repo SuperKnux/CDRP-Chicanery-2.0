@@ -1,13 +1,13 @@
-name = "Very Many Players (Fabric)"
-filename = "vmp-fabric-mc1.19.2-0.2.0+beta.7.30-all.jar"
-side = "both"
+filename = 'vmp-fabric-mc1.19.2-0.2.0+beta.7.30-all.jar'
+name = 'Very Many Players (Fabric)'
+side = 'both'
 
 [download]
-hash-format = "sha1"
-hash = "4e40e121d20e6c4026b6568366a95a00fdf2f1da"
-mode = "metadata:curseforge"
+hash = '6e881f2592de42c82ba11aa9749a62670931b8ff0b414ba21b22035fa350dbb873ebb487647bb495c999246b8c7edc5997654b501b861937ddfc4e6135f12ec4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/wnEe9KBa/versions/orfeALA0/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.7.30-all.jar'
 
-[update]
-[update.curseforge]
-file-id = 4561956
-project-id = 552542
+[update.modrinth]
+mod-id = 'wnEe9KBa'
+version = 'orfeALA0'

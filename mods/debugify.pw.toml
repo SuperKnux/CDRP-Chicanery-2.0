@@ -1,13 +1,13 @@
-name = "Debugify"
-filename = "Debugify-2.8.0.jar"
-side = "both"
+filename = 'Debugify-2.8.0.jar'
+name = 'Debugify'
+side = 'both'
 
 [download]
-hash-format = "sha1"
-hash = "34bed20ce5145eeaac14ada47aa9f269ef2cc3b5"
-mode = "metadata:curseforge"
+hash = '7ad21d66192520b8bc056d33981a51901dd5150b8ea8f288418366dba73755ad352925293ea3048628e8481f0cac4d122f794a10382df52c6029e315b79587ac'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QwxR6Gcd/versions/UvBWAMZL/Debugify-2.8.0.jar'
 
-[update]
-[update.curseforge]
-file-id = 4060233
-project-id = 596224
+[update.modrinth]
+mod-id = 'QwxR6Gcd'
+version = 'UvBWAMZL'

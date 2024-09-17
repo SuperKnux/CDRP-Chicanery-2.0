@@ -1,13 +1,13 @@
-name = "Enchantment Descriptions"
-filename = "EnchantmentDescriptions-Fabric-1.19.2-13.0.14.jar"
-side = "both"
+filename = 'EnchantmentDescriptions-Fabric-1.19.2-13.0.14.jar'
+name = 'Enchantment Descriptions'
+side = 'client'
 
 [download]
-hash-format = "sha1"
-hash = "3f2bc44f5d6f440de5be8757c2db0e4e2e2147f0"
-mode = "metadata:curseforge"
+hash = 'b38a4648c5b22e30ac4a9d1727baabf51b1ee267ce4cabb2f5b277ea1e324cdf06244546c2742d3b7a60f79116e88780cd00d647b795b893273502274041a526'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UVtY3ZAC/versions/cNetE4b6/EnchantmentDescriptions-Fabric-1.19.2-13.0.14.jar'
 
-[update]
-[update.curseforge]
-file-id = 4277355
-project-id = 250419
+[update.modrinth]
+mod-id = 'UVtY3ZAC'
+version = 'cNetE4b6'

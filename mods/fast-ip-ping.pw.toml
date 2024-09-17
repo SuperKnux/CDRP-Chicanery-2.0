@@ -1,13 +1,13 @@
-name = "Fast IP Ping"
-filename = "fast-ip-ping-v1.0.4-mc1.19.4-fabric.jar"
-side = "both"
+filename = 'fast-ip-ping-v1.0.4-mc1.19.4-fabric.jar'
+name = 'fast-ip-ping'
+side = 'client'
 
 [download]
-hash-format = "sha1"
-hash = "6d4415747b402cd68fe481ed069505d09ce9a74a"
-mode = "metadata:curseforge"
+hash = 'b92729824a0c8e6f8aa870053b0684be829aeec007af94127db90824cc0ad263ca6aa671a417e05d90702d72cfcb5695f026edf5d6cd311e67ade10bac72e65e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9mtu0sUO/versions/U4b0v0n1/fast-ip-ping-v1.0.4-mc1.19.4-fabric.jar'
 
-[update]
-[update.curseforge]
-file-id = 5666143
-project-id = 904356
+[update.modrinth]
+mod-id = '9mtu0sUO'
+version = 'U4b0v0n1'

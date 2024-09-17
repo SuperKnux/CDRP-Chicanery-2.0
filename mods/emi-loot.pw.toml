@@ -1,13 +1,13 @@
-name = "EMI Loot"
-filename = "emi_loot-0.6.6+1.19.jar"
-side = "both"
+filename = 'emi_loot-0.6.6+1.19.jar'
+name = 'EMI Loot'
+side = 'both'
 
 [download]
-hash-format = "sha1"
-hash = "b9014b29b89622ad7d6ef62b9e6b9bb6c1d77b34"
-mode = "metadata:curseforge"
+hash = '8c163a102b634e1675e09fe4443943deca2d1e120aafa59d517711060ca7e82cd2c0110f24ede6682ce0904f95cd8a0419e32656d0b9b782415e5b7f7af8db26'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qbbO7Jns/versions/95aOKine/emi_loot-0.6.6%2B1.19.jar'
 
-[update]
-[update.curseforge]
-file-id = 5263372
-project-id = 681783
+[update.modrinth]
+mod-id = 'qbbO7Jns'
+version = '95aOKine'

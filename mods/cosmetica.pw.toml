@@ -1,0 +1,13 @@
+filename = 'cosmetica-1.19.1-1.2.9.jar'
+name = 'Cosmetica'
+side = 'client'
+
+[download]
+hash = '212564af834b3e5e8db3dfa519619fec1cf8db8ad1dd4c9d96fe9f470fd3000c67bcf6ad16a07a8c1cb0825696498e0d8396e2550220bc3a58e311d7104fe4b3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/s9hF9QGp/versions/wTzilwFv/cosmetica-1.19.1-1.2.9.jar'
+
+[update.modrinth]
+mod-id = 's9hF9QGp'
+version = 'wTzilwFv'

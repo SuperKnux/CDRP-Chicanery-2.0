@@ -1,13 +1,13 @@
-name = "Hexbound (fork)"
-filename = "hexbound-0.1.4+1.19.2.jar"
-side = "both"
+filename = 'hexbound-0.1.4+1.19.2.jar'
+name = 'Hexbound (fork)'
+side = 'both'
 
 [download]
-hash-format = "sha1"
-hash = "fd21be7b8cad4a306ff41e8fc53fa4e20095d38d"
-mode = "metadata:curseforge"
+hash = '17b2753a6345ff4b4b3a73acc53021a1390f80ea6a805430a184f39ff12c6a2bd4a8fca32ed1f9c266e371e80be32954e5c7eb12fcde25df54ed003a29c5dc4b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rKZ6fcjp/versions/askARahx/hexbound-0.1.4%2B1.19.2.jar'
 
-[update]
-[update.curseforge]
-file-id = 5413674
-project-id = 1034001
+[update.modrinth]
+mod-id = 'rKZ6fcjp'
+version = 'askARahx'

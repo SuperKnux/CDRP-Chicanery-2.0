@@ -1,13 +1,13 @@
-name = "Damage Incorporated"
-filename = "damageincorporated-2.0.0+1.19.jar"
-side = "both"
+filename = 'damageincorporated-2.0.0+1.19.jar'
+name = 'Damage Incorporated'
+side = 'both'
 
 [download]
-hash-format = "sha1"
-hash = "be6f57b8f9a8e67bdbf57bb78657a2b2c09c9433"
-mode = "metadata:curseforge"
+hash = '9a2d24db5b58db42c504c214125d577c9f2f6ba888e5d073dea676b5ef102468fc2946cb02268f576c18dbb3a111757aa11e9b4bb5f89e7ebc9f51e36713e9bb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9Ey6omWt/versions/2.0.0%2B1.19/damageincorporated-2.0.0%2B1.19.jar'
 
-[update]
-[update.curseforge]
-file-id = 3868254
-project-id = 534137
+[update.modrinth]
+mod-id = '9Ey6omWt'
+version = 'WjaqOklV'

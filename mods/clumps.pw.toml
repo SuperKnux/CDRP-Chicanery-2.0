@@ -1,13 +1,13 @@
-name = "Clumps"
-filename = "Clumps-fabric-1.19.2-9.0.0+14.jar"
-side = "both"
+filename = 'Clumps-fabric-1.19.2-9.0.0+14.jar'
+name = 'Clumps'
+side = 'both'
 
 [download]
-hash-format = "sha1"
-hash = "abc0a2410b250a0e77d44c85b5624d32fc90740e"
-mode = "metadata:curseforge"
+hash = '5b2cf482b703fdd5f460ac03c82cbce8161439046fdbbd5fbb602ed9c6cb5d6e68e87659ef81c24412a62f6da85b0b1a61b3d2f33ef929011fee5683309219dd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Wnxd13zP/versions/pu9hcKsp/Clumps-fabric-1.19.2-9.0.0%2B14.jar'
 
-[update]
-[update.curseforge]
-file-id = 4153346
-project-id = 256717
+[update.modrinth]
+mod-id = 'Wnxd13zP'
+version = 'pu9hcKsp'

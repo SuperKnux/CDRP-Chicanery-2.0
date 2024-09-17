@@ -1,13 +1,13 @@
-name = "Show Me Your Skin! (Hide armor)"
-filename = "show-me-your-skin-1.6.3+1.19.2.jar"
-side = "both"
+filename = 'show-me-your-skin-1.6.3+1.19.2.jar'
+name = 'Show Me Your Skin!'
+side = 'client'
 
 [download]
-hash-format = "sha1"
-hash = "41d6a400d0d2f74592be1e17305a961e4e138df7"
-mode = "metadata:curseforge"
+hash = '821eceaefa71dfd613b6a1c01b02faf9ac48af2e672637b85676240c679dbea55e2534ac09d24a109bacbfe086b79c0d7be0faaa1cc3d2d4de75f2d03e25649f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/bD7YqcA3/versions/buUBth53/show-me-your-skin-1.6.3%2B1.19.2.jar'
 
-[update]
-[update.curseforge]
-file-id = 4506445
-project-id = 622010
+[update.modrinth]
+mod-id = 'bD7YqcA3'
+version = 'buUBth53'

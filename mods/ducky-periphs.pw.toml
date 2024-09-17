@@ -1,13 +1,13 @@
-name = "Ducky Periphs"
-filename = "duckyperiphs-1.19.2-1.2.3-fabric.jar"
-side = "both"
+filename = 'duckyperiphs-1.19.2-1.2.3-fabric.jar'
+name = 'Ducky Peripherals'
+side = 'both'
 
 [download]
-hash-format = "sha1"
-hash = "86ce9d6b31c4cb7bb3d7e7ea47695986aa1c89dd"
-mode = "metadata:curseforge"
+hash = '405205644b3a5ad0b8e1c6cef058a03e904096f501a855c9037183ec2b4b8fb5661ab5d77aa33e9d480436cfdc1f94b5948105f69689f9d363b369c7a249ba09'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/l2IpK3Ji/versions/Toa2HDOA/duckyperiphs-1.19.2-1.2.3-fabric.jar'
 
-[update]
-[update.curseforge]
-file-id = 4684472
-project-id = 832658
+[update.modrinth]
+mod-id = 'l2IpK3Ji'
+version = 'Toa2HDOA'

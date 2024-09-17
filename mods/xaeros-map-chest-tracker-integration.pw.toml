@@ -1,13 +1,13 @@
+filename = 'xaeros-map-chest-tracker-integration-mc1.19.2-v1.0.2.jar'
 name = "Xaero's Map Chest Tracker Integration"
-filename = "xaeros-map-chest-tracker-integration-mc1.19.2-v1.0.2.jar"
-side = "both"
+side = 'client'
 
 [download]
-hash-format = "sha1"
-hash = "268f2b6ce6e892b3a58780cd539969767c06b342"
-mode = "metadata:curseforge"
+hash = '27d3fdb02426e9dcb9fba6de6b1e36077e512b27d87eb95c54ec6748f61ae89747034dabf3cad2d8564a3686672e5f486733bdbf3cb120a5fa5e1f1a40bcf825'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XhOTBzVR/versions/fyxLOobO/xaeros-map-chest-tracker-integration-mc1.19.2-v1.0.2.jar'
 
-[update]
-[update.curseforge]
-file-id = 4763029
-project-id = 899132
+[update.modrinth]
+mod-id = 'XhOTBzVR'
+version = 'fyxLOobO'

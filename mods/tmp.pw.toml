@@ -1,13 +1,13 @@
-name = "Too Many Players"
-filename = "toomanyplayers-1.19-1.1.4.jar"
-side = "both"
+filename = 'toomanyplayers-1.19-1.1.4.jar'
+name = 'Too Many Players'
+side = 'client'
 
 [download]
-hash-format = "sha1"
-hash = "37ded53e1750505ad9776a2102fe2a7c1c6dd3de"
-mode = "metadata:curseforge"
+hash = 'bcb620300f0da7243e7655d945bad89ddb8ff8edf7c16bb9ba1c49a50953b3a38a11f316c039d182f9ea829ccf8ff5d8274d1be723ad1b985ed17867b1a3e578'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KPVN4aiJ/versions/1.19-1.1.4/toomanyplayers-1.19-1.1.4.jar'
 
-[update]
-[update.curseforge]
-file-id = 3945282
-project-id = 663273
+[update.modrinth]
+mod-id = 'KPVN4aiJ'
+version = '7oAQYocr'

@@ -1,13 +1,13 @@
+filename = 'letsdo-addon-structures-1.6.0_1.19.2.jar'
 name = "[Let's Do Addon] Structures"
-filename = "letsdo-addon-structures-1.6.0_1.19.2.jar"
-side = "both"
+side = 'both'
 
 [download]
-hash-format = "sha1"
-hash = "77b664ebac2f6fe48039363696333a4f6583702f"
-mode = "metadata:curseforge"
+hash = 'a50cc7536b918fca8586f637e1d16feca7b1dc5f93a73c8507593b89f321bab6a385aadee5d0ab2ce494f68756fcbf41646dbc726a7d5327485222e2655f20a4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2PaVx3ow/versions/bLst9kQz/letsdo-addon-structures-1.6.0_1.19.2.jar'
 
-[update]
-[update.curseforge]
-file-id = 5166314
-project-id = 967867
+[update.modrinth]
+mod-id = '2PaVx3ow'
+version = 'bLst9kQz'

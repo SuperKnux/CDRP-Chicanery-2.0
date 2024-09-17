@@ -1,13 +1,13 @@
-name = "Create Enchantment Industry Fabric"
-filename = "create_enchantment_industry-1.0.1.b.jar"
-side = "both"
+filename = 'create_enchantment_industry-1.0.1.b.jar'
+name = 'Create Enchantment Industry Fabric'
+side = 'both'
 
 [download]
-hash-format = "sha1"
-hash = "a1d8f88a0ff08d9ab3a2bf0f8e666a8290c39aec"
-mode = "metadata:curseforge"
+hash = '706cd0b175333c7ef38ba0b2dd667b75b3d9e24225745d67e04fe5ecbe8b50977dbfdfa39f7c605b434545a342948721c31004e83142204b7b79816257ea7cf3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AEZO385x/versions/3XMJZKda/create_enchantment_industry-1.0.1.b.jar'
 
-[update]
-[update.curseforge]
-file-id = 4768318
-project-id = 876129
+[update.modrinth]
+mod-id = 'AEZO385x'
+version = '3XMJZKda'

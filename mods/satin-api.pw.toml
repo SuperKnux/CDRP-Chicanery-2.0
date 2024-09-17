@@ -1,13 +1,13 @@
-name = "Satin API"
-filename = "satin-1.9.2.jar"
-side = "both"
+filename = 'satin-1.9.2.jar'
+name = 'Satin API'
+side = 'client'
 
 [download]
-hash-format = "sha1"
-hash = "f28fc85b52f61cdc6b1fe34bee7c3ad6d6921004"
-mode = "metadata:curseforge"
+hash = '1c075259c730a8c5710a7b0308dedd5a6d5590424261eef934911ddf0c21483c24b68f45a1822c550e9d04ddc1816cfbd7b3754c97e6d908afb4ed6ae0a915e0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fRbqPLg4/versions/Jkb76bex/satin-1.9.2.jar'
 
-[update]
-[update.curseforge]
-file-id = 5425309
-project-id = 385463
+[update.modrinth]
+mod-id = 'fRbqPLg4'
+version = 'Jkb76bex'

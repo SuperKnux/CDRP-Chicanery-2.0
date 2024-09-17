@@ -1,13 +1,13 @@
+filename = 'letsdo-bakery-fabric-1.0.6.jar'
 name = "Legacy: [Let's Do] Bakery"
-filename = "letsdo-bakery-fabric-1.0.6.jar"
-side = "both"
+side = 'both'
 
 [download]
-hash-format = "sha1"
-hash = "c120b3a5e044662eef11d519eac8f91a2f2401c8"
-mode = "metadata:curseforge"
+hash = '02810a1e9763e207da8eb26bf9e3a751890cb51fa60a037ea6f5b12fe2c8a662c40981851254a53a40b7d02023f0bf54c63519f5a7e402d69a0798cb6993968a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WFwYiVoG/versions/jT18paH1/letsdo-bakery-fabric-1.0.6.jar'
 
-[update]
-[update.curseforge]
-file-id = 4680975
-project-id = 886559
+[update.modrinth]
+mod-id = 'WFwYiVoG'
+version = 'jT18paH1'

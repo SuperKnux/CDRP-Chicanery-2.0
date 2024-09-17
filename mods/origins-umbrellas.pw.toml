@@ -1,13 +1,13 @@
-name = "Origins: Umbrellas"
-filename = "originsumbrellas-1.5.4.jar"
-side = "both"
+filename = 'originsumbrellas-1.5.4.jar'
+name = 'Origins: Umbrellas'
+side = 'both'
 
 [download]
-hash-format = "sha1"
-hash = "80d848bf6f2840cdd666a54a217d47b8e615e144"
-mode = "metadata:curseforge"
+hash = '4a29427e405d63e15135ad06ccfcd157848dbb9af9e7596630f971560ca59714dd0aad36597a090831e9d8058c1d9716e0cb96b0f282b3ca52ef7835a3a286a3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nKWFvKt2/versions/H7Ba7Act/originsumbrellas-1.5.4.jar'
 
-[update]
-[update.curseforge]
-file-id = 4013610
-project-id = 453378
+[update.modrinth]
+mod-id = 'nKWFvKt2'
+version = 'H7Ba7Act'

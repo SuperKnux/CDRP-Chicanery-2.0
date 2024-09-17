@@ -1,13 +1,13 @@
-name = "AttributeFix"
-filename = "AttributeFix-Fabric-1.19.2-17.2.7.jar"
-side = "both"
+filename = 'AttributeFix-Fabric-1.19.2-17.2.7.jar'
+name = 'AttributeFix'
+side = 'both'
 
 [download]
-hash-format = "sha1"
-hash = "c57f1ce7b0f7690b858a425be63cd2b057b11f7f"
-mode = "metadata:curseforge"
+hash = '2d022da88f4562a41f63e204bc9158570645344454e210940b620f1c0ef61a6afbafe06556d98653062a5ebe03d55da1bbb47f705fcb6ccf7220098080ed9124'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lOOpEntO/versions/w0gEQWpC/AttributeFix-Fabric-1.19.2-17.2.7.jar'
 
-[update]
-[update.curseforge]
-file-id = 4635475
-project-id = 280510
+[update.modrinth]
+mod-id = 'lOOpEntO'
+version = 'w0gEQWpC'

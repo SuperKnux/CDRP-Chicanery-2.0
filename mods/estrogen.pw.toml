@@ -1,13 +1,13 @@
-name = "Create: Estrogen"
-filename = "Estrogen-4.1.1+1.19.2-fabric.jar"
-side = "both"
+filename = 'Estrogen-4.1.1+1.19.2-fabric.jar'
+name = 'Create: Estrogen'
+side = 'both'
 
 [download]
-hash-format = "sha1"
-hash = "258e6830fdbd6509b2d5eb12bb8f2aaa7ffc69ab"
-mode = "metadata:curseforge"
+hash = '4131ce1ab4a104e06bda75e8a2fad171e62fa4b065c4875e3379ee639fafc040c202396b18203ed8dbe0093256aab5db8adace94346c14a84b052fae6bb3e714'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HhIJW8n1/versions/GJN8ZhKs/Estrogen-4.1.1%2B1.19.2-fabric.jar'
 
-[update]
-[update.curseforge]
-file-id = 5538093
-project-id = 850410
+[update.modrinth]
+mod-id = 'HhIJW8n1'
+version = 'GJN8ZhKs'

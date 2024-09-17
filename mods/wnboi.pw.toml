@@ -1,13 +1,13 @@
-name = "Why Not Be One Item (WNBOI)"
-filename = "wnboi-0.0.4-fabric.jar"
-side = "both"
+filename = 'wnboi-0.0.4-fabric.jar'
+name = 'Why Not Be One Item'
+side = 'both'
 
 [download]
-hash-format = "sha1"
-hash = "a0fddc0e6497b8e4810a1b75e7283e9707938a5f"
-mode = "metadata:curseforge"
+hash = '9da799aea5cd5b5be29671654719f61360271afd063cbcb8ee47b98e381b55c5fecb153c3f552cf2e095a28fe20570f59ca584547ded610fcc1764f26b8239be'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/L8iJY5PM/versions/iZuEejyK/wnboi-0.0.4-fabric.jar'
 
-[update]
-[update.curseforge]
-file-id = 4687465
-project-id = 897562
+[update.modrinth]
+mod-id = 'L8iJY5PM'
+version = 'iZuEejyK'

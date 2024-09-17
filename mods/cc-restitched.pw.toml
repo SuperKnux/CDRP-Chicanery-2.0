@@ -1,13 +1,13 @@
-name = "CC: Restitched"
-filename = "cc-restitched-1.101.2.jar"
-side = "both"
+filename = 'cc-restitched-1.101.2.jar'
+name = 'CC: Restitched'
+side = 'both'
 
 [download]
-hash-format = "sha1"
-hash = "428b306c317e38d5829972f1944c873858b740da"
-mode = "metadata:curseforge"
+hash = 'c1c3b80489ce7341135c06dadf9a9f344ad4ef5165699aa56364e7cb4d585b0b02a3407a3bb7f3884b0cd33655362e04c247c2c0b7dbfc9faa69d3564ce3f30a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/eldBwa5V/versions/1.101.2%2B1.19.1/cc-restitched-1.101.2.jar'
 
-[update]
-[update.curseforge]
-file-id = 3908334
-project-id = 462672
+[update.modrinth]
+mod-id = 'eldBwa5V'
+version = '3S6HU7nl'

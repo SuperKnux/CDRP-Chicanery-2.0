@@ -1,13 +1,13 @@
-name = "CC: VS"
-filename = "cc_vs-1.19.2-fabric-0.1.0.jar"
-side = "both"
+filename = 'cc_vs-1.19.2-fabric-0.1.0.jar'
+name = 'CC: VS'
+side = 'both'
 
 [download]
-hash-format = "sha1"
-hash = "5d62e033791df10de5de430516beeef98aa7113f"
-mode = "metadata:curseforge"
+hash = 'c89f6b83cfa0624c2590d7b43c920c414058c89fd933decd0a4192f03064995b0ac739c9381c254d928ca41e30d0cd1deabc91669108133e79ee897f21fb009e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/bvgy8HrZ/versions/r8HVjGlq/cc_vs-1.19.2-fabric-0.1.0.jar'
 
-[update]
-[update.curseforge]
-file-id = 5373563
-project-id = 958065
+[update.modrinth]
+mod-id = 'bvgy8HrZ'
+version = 'r8HVjGlq'

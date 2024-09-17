@@ -1,13 +1,13 @@
-name = "Necronomicon API"
-filename = "Necronomicon-Fabric-1.4.2.jar"
-side = "both"
+filename = 'Necronomicon-Fabric-1.4.2.jar'
+name = 'Necronomicon API'
+side = 'both'
 
 [download]
-hash-format = "sha1"
-hash = "563eef8154c73e099012f58f1b12a011e9d2b5b2"
-mode = "metadata:curseforge"
+hash = '9b26e0c64a9c391894a9dd9d125c9e871aef32197b137a38c56516a7abb4b0f01a881003e70d5defa1ad7dcea357fbce366cb6417400d4924cb03fa4653c1fc8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/P1Kv5EAO/versions/twWimVNr/Necronomicon-Fabric-1.4.2.jar'
 
-[update]
-[update.curseforge]
-file-id = 5091307
-project-id = 586157
+[update.modrinth]
+mod-id = 'P1Kv5EAO'
+version = 'twWimVNr'

@@ -1,13 +1,13 @@
-name = "Coyote Time"
-filename = "coyote_time-1.0.0.jar"
-side = "both"
+filename = 'coyote_time-1.0.0.jar'
+name = 'Coyote Time'
+side = 'both'
 
 [download]
-hash-format = "sha1"
-hash = "2d3cb27e86acc78a08ecc0a6f5bcbd45df9f0354"
-mode = "metadata:curseforge"
+hash = '7ec2dc8202615f913daecbae478bd6f6504641723d36f13651510a2c75244ff7ad52d7e07d914a2000f63c245685b55b763415c0a633b75581e0c91fae356969'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LzG2UcEx/versions/1.0.0/coyote_time-1.0.0.jar'
 
-[update]
-[update.curseforge]
-file-id = 3906499
-project-id = 652767
+[update.modrinth]
+mod-id = 'LzG2UcEx'
+version = '5HVk2w9I'

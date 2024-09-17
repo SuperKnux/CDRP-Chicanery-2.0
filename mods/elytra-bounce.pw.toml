@@ -1,13 +1,13 @@
-name = "Elytra Bounce"
-filename = "elytrabounce-1.0.2.jar"
-side = "both"
+filename = 'elytrabounce-1.0.2.jar'
+name = 'Elytra Bounce'
+side = 'server'
 
 [download]
-hash-format = "sha1"
-hash = "b6f833f236f8a3b4e9c5d1cf0e60ae76de73281d"
-mode = "metadata:curseforge"
+hash = 'f57b83f729db4365e13ac8077e0c71744345525e83d5e0ad3c40c563f99f8829f67659fdd1f95b593747b97c5dcdd0acf47e2dfe2888c238bd4339e7fe3d958b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hieJmvD9/versions/L5K3Dv8m/elytrabounce-1.0.2.jar'
 
-[update]
-[update.curseforge]
-file-id = 3972847
-project-id = 658644
+[update.modrinth]
+mod-id = 'hieJmvD9'
+version = 'L5K3Dv8m'

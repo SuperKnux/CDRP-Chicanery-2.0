@@ -1,13 +1,13 @@
-name = "Create Goggles (Create Plus)"
-filename = "creategoggles-1.19.2-0.5.5.g-[FABRIC].jar"
-side = "both"
+filename = 'creategoggles-1.19.2-0.5.5.g-[FABRIC].jar'
+name = 'Create Goggles'
+side = 'both'
 
 [download]
-hash-format = "sha1"
-hash = "d3525e43e80d924bd965126dc0486072cde3189f"
-mode = "metadata:curseforge"
+hash = 'a40f38c3915b5b468ae2a7b72c073fec3b4648fae32cc8564e6870bb819c735a23858e44f7ad5e7525bcb69e984338c8edfe7af71d57f8f912fcd970a6fb66b8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/L1RT5SJc/versions/35aUYmOV/creategoggles-1.19.2-0.5.5.g-%5BFABRIC%5D.jar'
 
-[update]
-[update.curseforge]
-file-id = 5213307
-project-id = 377835
+[update.modrinth]
+mod-id = 'L1RT5SJc'
+version = '35aUYmOV'

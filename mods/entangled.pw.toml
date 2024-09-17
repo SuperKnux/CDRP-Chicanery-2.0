@@ -1,13 +1,13 @@
-name = "Entangled"
-filename = "entangled-1.3.19-fabric-mc1.19.2.jar"
-side = "both"
+filename = 'entangled-1.3.19-fabric-mc1.19.2.jar'
+name = 'Entangled'
+side = 'both'
 
 [download]
-hash-format = "sha1"
-hash = "bf795788445a29dc60b5bc295d308db7732c04dc"
-mode = "metadata:curseforge"
+hash = '3cecbeff14dc35a14e2435ae28d292c68eac2a3f3ee4443b669424a94fa049899e5e5be25987e19f80b28c22c7d647d43d41f95e4e80f2651ff6a2df699c5461'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rylMOguI/versions/7ftuKJXU/entangled-1.3.19-fabric-mc1.19.2.jar'
 
-[update]
-[update.curseforge]
-file-id = 5656237
-project-id = 301034
+[update.modrinth]
+mod-id = 'rylMOguI'
+version = '7ftuKJXU'

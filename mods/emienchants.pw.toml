@@ -1,13 +1,13 @@
-name = "EMI Enchants"
-filename = "EMIEnchants-fabric-1.19.2-1.0.0.jar"
-side = "both"
+filename = 'EMIEnchants-fabric-1.19.2-1.0.0.jar'
+name = 'EMI Enchants'
+side = 'client'
 
 [download]
-hash-format = "sha1"
-hash = "0f768dc067c630b308f8d97a777ae190ef4f5788"
-mode = "metadata:curseforge"
+hash = 'dc6893a1c02e9d2dce23fb100a5c767d52a659607728cf950f2bcf92e88f6b8a78d2334910945cc189bfa812dfa1a08fbf45970efc7d5bd099dbc9661ffc8178'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/11hKNQb2/versions/HF0Lee4G/EMIEnchants-fabric-1.19.2-1.0.0.jar'
 
-[update]
-[update.curseforge]
-file-id = 5428334
-project-id = 1036393
+[update.modrinth]
+mod-id = '11hKNQb2'
+version = 'HF0Lee4G'
