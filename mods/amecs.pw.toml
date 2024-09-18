@@ -14,3 +14,4 @@ version = "RcXP5WO3"
 
 [option]
 optional = true
+description = "AMECS (Alt-Meta-Escape-Control-Shift" gives you a search bar in keybinding menu as well as allowing you to add modifier keys to keybinds. Cannot be used with Controlling; Controllings' menu takes over AMECS'."

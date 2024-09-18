@@ -14,3 +14,4 @@ version = "7mGcFotW"
 
 [option]
 optional = true
+description = "Controlling gives you a search bar in keybinding menu. Cannot be used with AMECS; Controllings' menu takes over AMECS'."
