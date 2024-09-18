@@ -1,0 +1,13 @@
+name = "Better Harvesting"
+filename = "betterharvesting-1.19.1-fabric-0.0.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/4ljTCTYt/versions/QW4C9avv/betterharvesting-1.19.1-fabric-0.0.4.jar"
+hash-format = "sha512"
+hash = "783882e66c3e0f0abf59b4a316d4d66b71f3835804a1d31f2e8eabd74fe8dd7e69e20626910745b51d4944f2cb87b81950beb2358c99db9078b8f63f5dfa2fb2"
+
+[update]
+[update.modrinth]
+mod-id = "4ljTCTYt"
+version = "QW4C9avv"

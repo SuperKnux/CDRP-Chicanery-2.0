@@ -20,6 +20,16 @@ hash = "5a5cf7ff87e35eec07d0202dfa93a80f132c9d09bde56c9f721d161392cd8db7"
 metafile = true
 
 [[files]]
+file = "mods/amethyst-core.pw.toml"
+hash = "8d2466c6166b0f3e381560ec6eef776fbc58b67307195a76db54ab44a4c3530e"
+metafile = true
+
+[[files]]
+file = "mods/amethyst-imbuement.pw.toml"
+hash = "b319b2b7805da42b25937a6414e3cac5c1523b115dd78e8fe922754e7a871826"
+metafile = true
+
+[[files]]
 file = "mods/animal-feeding-trough.pw.toml"
 hash = "fc1f90f7f1e85d7749658aa92ced71d733ffdbb3ab8cc49eac1f9920f07eea81"
 metafile = true
@@ -62,6 +72,11 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "79e0bfcf24e7ec3234054f8c330cb861078c4bb947131b6895cfe883a3316647"
+metafile = true
+
+[[files]]
+file = "mods/better-harvesting.pw.toml"
+hash = "3ea75f82ff5e503172e700e70ee1ed13823de1e46bea351186a62b9ae8740403"
 metafile = true
 
 [[files]]
@@ -407,6 +422,16 @@ metafile = true
 [[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
 hash = "069e62f464493152f906920c28ef6fd7ae508fad13759de74a439fed99dfb172"
+metafile = true
+
+[[files]]
+file = "mods/fld.pw.toml"
+hash = "a54f431482281bb4ba81e44aff9d5fb389670a0811f070cc0840640ddf0b2d10"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-core.pw.toml"
+hash = "a3868561b3f87b28c31af39a4c0e292a665e84900768aa60af19a7465fe88e44"
 metafile = true
 
 [[files]]
@@ -796,6 +821,16 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "fef731b1524688380360ef32f9b8f015f9443e997d025e19ceb2b3be1270b9ad"
+metafile = true
+
+[[files]]
+file = "mods/pandalib.pw.toml"
+hash = "ece5a4e5c9df6558acf636514b6866902bb88988da9a0bb55bb827a241e22996"
+metafile = true
+
+[[files]]
+file = "mods/pandas-falling-trees.pw.toml"
+hash = "031c9e40c0a534b983259fe4cb6e856f6c1ab4116e86669edc6b1f34be37cc26"
 metafile = true
 
 [[files]]
