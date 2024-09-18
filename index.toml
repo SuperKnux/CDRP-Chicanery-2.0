@@ -16,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/amecs.pw.toml"
-hash = "2a0e7723eacb6215c7703d88d470ceb7418b2f76c19ede4b3ad5cf10a37603ea"
+hash = "34ee8c018d0320f92adf767ddda5967dea3f3cd72e8af8ca58b507a02fc275b7"
 metafile = true
 
 [[files]]
@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "bf09f1526ab31d82f9ebaff5c23983daa5b910112e8f86614451923716096f2f"
+hash = "2c7c08c96b473ad4f098b515398ee371283f2694cdb89bbab90f9a344c4913c9"
 metafile = true
 
 [[files]]
