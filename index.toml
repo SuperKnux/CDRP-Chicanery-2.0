@@ -15,6 +15,11 @@ hash = "9ee263e655405f3dca7b34226ee77a4285b342b84f7a39915a969b5c80dee933"
 metafile = true
 
 [[files]]
+file = "mods/amecs.pw.toml"
+hash = "12bf6c71ad16aae365f00383098c9818fd3c4131685caff570630202013f5087"
+metafile = true
+
+[[files]]
 file = "mods/animal-feeding-trough.pw.toml"
 hash = "fc1f90f7f1e85d7749658aa92ced71d733ffdbb3ab8cc49eac1f9920f07eea81"
 metafile = true
@@ -137,6 +142,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "2472468048fcf90689b67fa30bbf8f7dcb64ec80dd67d111868d4e0f469a481a"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "9f02550afa23eae65aa1a917356b59e9d84ba9e710e749846be3a4a2c6cfea70"
 metafile = true
 
 [[files]]
