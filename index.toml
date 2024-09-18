@@ -20,11 +20,6 @@ hash = "fc1f90f7f1e85d7749658aa92ced71d733ffdbb3ab8cc49eac1f9920f07eea81"
 metafile = true
 
 [[files]]
-file = "mods/animationoverhaul.pw.toml"
-hash = "05797024aedc4ddc4b51e98e84c87e0953130e7da6691d8ac4f48741533f35eb"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "5fe793557b3a0df166c6b63c52d09f4b53d1a4dbd1a96ca0d54e38a53953893f"
 metafile = true
