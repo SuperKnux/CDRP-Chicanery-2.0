@@ -425,6 +425,11 @@ hash = "a54f431482281bb4ba81e44aff9d5fb389670a0811f070cc0840640ddf0b2d10"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "c90c68883ba1b65907c7a86efa8e2d03fc043de88e9ee0226e73a45051663e22"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-core.pw.toml"
 hash = "a3868561b3f87b28c31af39a4c0e292a665e84900768aa60af19a7465fe88e44"
 metafile = true
@@ -819,16 +824,6 @@ hash = "953d390eb2bcb2569c3aef7a872db9fb84091ff88244f8bbcb64eed5ce306cd1"
 metafile = true
 
 [[files]]
-file = "mods/pandalib.pw.toml"
-hash = "ece5a4e5c9df6558acf636514b6866902bb88988da9a0bb55bb827a241e22996"
-metafile = true
-
-[[files]]
-file = "mods/pandas-falling-trees.pw.toml"
-hash = "031c9e40c0a534b983259fe4cb6e856f6c1ab4116e86669edc6b1f34be37cc26"
-metafile = true
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "8245f2a33a9974d0b6776e06c05a8c8d7a0264cb2b819f3f35817e4e78f08950"
 metafile = true
@@ -1044,6 +1039,11 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "eaa0fb85524c23e6d646d716cd0388bcd9c7f6a4ed2e3b383939ac2b4dcb3528"
+metafile = true
+
+[[files]]
+file = "mods/treechop.pw.toml"
+hash = "b940d4489222c71822eb9616c52571abb6b011d76d87cb19166316d61a005231"
 metafile = true
 
 [[files]]
