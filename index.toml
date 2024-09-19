@@ -150,11 +150,6 @@ hash = "008d5b39a08fcfa1be541bd101c7b5e96e872a57725f124fd9079d42bec92d57"
 metafile = true
 
 [[files]]
-file = "mods/connectivity.pw.toml"
-hash = "93e56787ea6b7ff794f84d4238fa194705dc65b1f73d204bddb3e2948d24c366"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 hash = "2472468048fcf90689b67fa30bbf8f7dcb64ec80dd67d111868d4e0f469a481a"
 metafile = true
