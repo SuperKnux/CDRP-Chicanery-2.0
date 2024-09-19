@@ -569,11 +569,6 @@ hash = "045c3ccfded9f592a16eae01d10414807e7577e85ecbd268b5d0c4802215099b"
 metafile = true
 
 [[files]]
-file = "mods/krypton.pw.toml"
-hash = "06242fbaf93edfc7381ddcad36d0e3dc451bbead5741dd1df50bd1486082c88b"
-metafile = true
-
-[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "87fe85a6c7e337702e8455cac3d4391e9e4c2edf53de5bed96bc0870f6e678e5"
 metafile = true
@@ -870,6 +865,11 @@ hash = "3b29f2c0650b0a904efc564c3c1b6300de1ec9662320757daf33176062b59a44"
 [[files]]
 file = "mods/quilt-kotlin-libraries-core-4.0.0+kt.1.9.23+flk.1.10.19.jar"
 hash = "ab3030ad25fa0ec84673c7db4ecd3f00404810f44e183b0c2715c5a9f9b06443"
+
+[[files]]
+file = "mods/raknetify.pw.toml"
+hash = "2b459e7dff2e92a62c470c36ee0d94c0eb98e477f7a08a5a2d4860473093f8c0"
+metafile = true
 
 [[files]]
 file = "mods/reborncore.pw.toml"
