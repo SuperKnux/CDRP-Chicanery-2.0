@@ -185,6 +185,11 @@ hash = "a6ad1643014f3e3349a39d7da8f422095866a15f02d41308c267fcdb75e988ca"
 metafile = true
 
 [[files]]
+file = "mods/create-clockwork.pw.toml"
+hash = "fe8e25eba54da902af5b1beac065b75afd5e683a39aea2dc03efdd8a1dda5a60"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
 hash = "8ec21a9d65f15f73735945b3b5e225a2d7b2cec4280e9af4dc949fe503ef6f09"
 metafile = true
@@ -367,6 +372,11 @@ metafile = true
 [[files]]
 file = "mods/estrogen.pw.toml"
 hash = "ab932b5fc5c0d6af218532810293d2f6e3163801a01e0b8f697a6c0a1a8b2dc1"
+metafile = true
+
+[[files]]
+file = "mods/eureka.pw.toml"
+hash = "2bdbc69d7ccd94efde0e042237cc7b8bd23e9d374fabfd50d46d5c2745b74d32"
 metafile = true
 
 [[files]]
@@ -1049,6 +1059,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "fae1ccc345c042d1bbe5c6971524f141a4ed1c711eba6712f78befa90b2af4b6"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "d95f25297492928e39d8228f7f2e94a405f95bbf228ff134d61f361963c7d83d"
 metafile = true
 
 [[files]]
