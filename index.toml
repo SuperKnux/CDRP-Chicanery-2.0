@@ -5,6 +5,10 @@ file = "config/desiredservers/desiredservers.json"
 hash = "939be15a35b032208688f1927fa84c3ee9f0dc969f48e42fad35281b00704ddd"
 
 [[files]]
+file = "mods/Origins-1.19.2-1.7.1.jar"
+hash = "e040b1a4a206e8a3b9cdecb453cd455d7f7856f448033761be0dc2341f970a98"
+
+[[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "99fc158548ea125528f625f7d98da6ba6b64d5a55555139e094e16a4b2122493"
 metafile = true
@@ -811,11 +815,6 @@ metafile = true
 [[files]]
 file = "mods/origins-undertale-yellow.pw.toml"
 hash = "055980c01d695f84c872c3a4938d55f2f30e25ae6ee1f4d7ae47f6a91579d3d8"
-metafile = true
-
-[[files]]
-file = "mods/origins.pw.toml"
-hash = "c85e5cd3169f7ace3649e630a7edf6ce180f5fde6e0a7dd54198726d3747f16b"
 metafile = true
 
 [[files]]
