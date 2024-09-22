@@ -9,6 +9,11 @@ file = "mods/Origins-1.19.2-1.7.1.jar"
 hash = "cd397f9f16babdbe171538bcbd76fdf71f2a29e68db49d49e4ff0fb4b45ea045"
 
 [[files]]
+file = "mods/adapted-origins.pw.toml"
+hash = "ddab21d4408d39fae1a1c6bf2ef902fbf11cbbe78ff4ca88378ad086b00216c9"
+metafile = true
+
+[[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "99fc158548ea125528f625f7d98da6ba6b64d5a55555139e094e16a4b2122493"
 metafile = true
@@ -126,6 +131,11 @@ metafile = true
 [[files]]
 file = "mods/chest-tracker.pw.toml"
 hash = "a77a9ba9ff9996873c0550a5e30ee2abd46fc47dfd5adcfcc7bfc63e95159c22"
+metafile = true
+
+[[files]]
+file = "mods/chidori-origins-collection.pw.toml"
+hash = "f00ce9496afe9a88c065001fd1dba5ea04bbe63428f3cfe866ada5b0df0e5e65"
 metafile = true
 
 [[files]]
@@ -558,6 +568,11 @@ hash = "24b39d0fa89748ce66e4c4c320093c4b9dc3977c4e57669d972ffa46ff0f3f3c"
 metafile = true
 
 [[files]]
+file = "mods/isnrmn.pw.toml"
+hash = "e5b73fa6a5179fa88706152f41ce4eb474df3a0aa2cd7d63df0fe23d536c6ccd"
+metafile = true
+
+[[files]]
 file = "mods/item-highlighter-fabric.pw.toml"
 hash = "dbcdf87ac077d9ba85d95adba8d65e67931a5d2600f36367d938ce5ed6c62293"
 metafile = true
@@ -708,6 +723,11 @@ hash = "c6e0a3bc2bb6c6f76df1e3e202c28709a91c737413821b573635cd3e0b84b387"
 metafile = true
 
 [[files]]
+file = "mods/medieval-origins-revival.pw.toml"
+hash = "8503c249bc7ee404ee1a19ac89e9aebc38ab5b15e26c448aa7daf1c12e257494"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
 metafile = true
@@ -754,7 +774,17 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "055b7d9ae980e5d2f2eba9aa74a22a20b39e8c3f6c1281034d7f4ea0fea5815f"
+hash = "0b748dcb8bf72948f90a5c5130b755f43cc3d5a8813e8d495aeb26a5a31e16b9"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "001c288f98d7c910ab76e33071df836e6e73c541c4f4b85ad84e854115d2c90e"
+metafile = true
+
+[[files]]
+file = "mods/mythicmetals.pw.toml"
+hash = "d3466e109c3b8b3d03d633a881e0ac580f624b79dd07aaf2f96f97541dec58be"
 metafile = true
 
 [[files]]
@@ -798,13 +828,13 @@ hash = "25599487de7d45e632495138470743c63f47406f8e81f424a4d9ce4646190c54"
 metafile = true
 
 [[files]]
-file = "mods/origins-extra-keybinds-fabric.pw.toml"
-hash = "1df36c1f5d60f2dfa5ed480ae4dbdb3e426d9352a1f3b1d86ffd595927577d4c"
+file = "mods/origins-classes.pw.toml"
+hash = "6347f1b4fd8c1a92cb4c2504d352807d1ff817f1e5146156e1135a2b6f473e28"
 metafile = true
 
 [[files]]
-file = "mods/origins-plus-plus.pw.toml"
-hash = "26fdecf60832b8312532e664df5cbce60e13e47481c1133278feb67bbaa84a54"
+file = "mods/origins-extra-keybinds-fabric.pw.toml"
+hash = "1df36c1f5d60f2dfa5ed480ae4dbdb3e426d9352a1f3b1d86ffd595927577d4c"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Medieval Origins Revival"
+filename = "medieval-origins-5.1.9.2+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3FJ8AhW0/versions/MQPxtDCt/medieval-origins-5.1.9.2%2B1.19.2.jar"
+hash-format = "sha512"
+hash = "3bacecfae2fef078a70370fc60545376bf7122244fe05690447592a1a8e965efdb17e1e77468d74b61ee587874825716ad9e20f107b42dd7aa07d418c6d7634a"
+
+[update]
+[update.modrinth]
+mod-id = "3FJ8AhW0"
+version = "MQPxtDCt"

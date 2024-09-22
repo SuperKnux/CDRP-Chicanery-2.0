@@ -1,0 +1,13 @@
+name = "Chidori Origins Collection"
+filename = "chidori_origins-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FylDXjXO/versions/973fXI2L/chidori_origins-1.0.4.jar"
+hash-format = "sha512"
+hash = "f988568443fd1ba720d023b66c6954b6d30392ea1d57b51bbe45a5d82c3bc5834e218d02daeb31459337393ad705e93428d9034fa545355277a609a9ee1fd9f3"
+
+[update]
+[update.modrinth]
+mod-id = "FylDXjXO"
+version = "973fXI2L"

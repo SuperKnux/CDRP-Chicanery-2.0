@@ -1,0 +1,13 @@
+name = "Mythic Metals"
+filename = "mythicmetals-0.17.3+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bAWzYNRd/versions/agtDPt36/mythicmetals-0.17.3%2B1.19.2.jar"
+hash-format = "sha512"
+hash = "5638395a1019c1eb0ccf9d5c8a4c25b4b50619848b101ec0c94a2ebc8f2d3b3a6241225951eee0739e622b969cdabf724870537c808157af28850af060d9741e"
+
+[update]
+[update.modrinth]
+mod-id = "bAWzYNRd"
+version = "agtDPt36"
