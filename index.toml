@@ -478,11 +478,6 @@ file = "mods/gravity-api-1.0.3-1.19.2.jar"
 hash = "11666902225b132d66b09675cc3cb7bf596f62a0d35658cf1dad41a2a4fde33a"
 
 [[files]]
-file = "mods/gravity-api.pw.toml"
-hash = "92c7dae3edb0a65e151edac152c995abc93259cb25d518b08d1200582833be1b"
-metafile = true
-
-[[files]]
 file = "mods/held-item-info.pw.toml"
 hash = "81a51c463d98bf917b3d4237022482c2c7a0cf9a55b613836965fa86b10c7100"
 metafile = true
