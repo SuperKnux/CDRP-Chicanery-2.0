@@ -1126,8 +1126,18 @@ hash = "307101e999c9017cf2605aec2dfe1aee52e64afba9093e3e04ade029a5a7dc45"
 metafile = true
 
 [[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "1989bc8e50ef11ab36541e1ecaace8ce895dcbaa6b23e677097d9b3ba3894c8b"
+metafile = true
+
+[[files]]
 file = "mods/styled-nicknames.pw.toml"
 hash = "cbbc16317e7b1c745503aee8711f976daa67d2b9ea3a401e7dc4081b5650baf3"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "f3b9580c806cf0a65dad8543af4c4a21e35eb50dc4fff63a1370c87a8041ecab"
 metafile = true
 
 [[files]]
