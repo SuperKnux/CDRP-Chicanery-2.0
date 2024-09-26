@@ -114,11 +114,6 @@ hash = "4fb039fe6f5f3aa0bb29d6d4b1add29b9f010b98bd571a3557ee1f49c03f02c3"
 metafile = true
 
 [[files]]
-file = "mods/better-harvesting.pw.toml"
-hash = "3ea75f82ff5e503172e700e70ee1ed13823de1e46bea351186a62b9ae8740403"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "8eb05557badaa4b5c3435ea88a80898400bfbeeca4a0bfad5bf3e1665ba06254"
 metafile = true
@@ -200,12 +195,17 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "710fa9dd083ed2b59ba3a466ffc3bb93601bbfb00a22a0bd012446ffff8c8410"
+hash = "68d9c6e0943edf3cdb03a487c9791beaccc75f70cf2e942175f119303caa73a7"
 metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "a50e7fff70d924c92f75b60730a35900c068b6f7f5c277d119d01bb9caf6dea9"
+metafile = true
+
+[[files]]
+file = "mods/cobweb.pw.toml"
+hash = "9f4de1c81f0ba64f4785e2b1a2e52c48b6ffd5c8c6bac627009003bca9ffaf15"
 metafile = true
 
 [[files]]
@@ -536,6 +536,11 @@ metafile = true
 [[files]]
 file = "mods/gravity-api-1.0.3-1.19.2.jar"
 hash = "11666902225b132d66b09675cc3cb7bf596f62a0d35658cf1dad41a2a4fde33a"
+
+[[files]]
+file = "mods/harvest-with-ease.pw.toml"
+hash = "41c54f2a5fd12a828074da2686f82aaf2e189e8648569854117f5f3f3a09fffb"
+metafile = true
 
 [[files]]
 file = "mods/held-item-info.pw.toml"
@@ -999,7 +1004,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "e6d455afe0bc630965481b1a35a8acff4b4a0eaf1844aa30b859735cf05be5d3"
+hash = "bc33470d5d8f27717a5c0ef799d22690b7088399cfa59a84a50d85216d9e5ac7"
 metafile = true
 
 [[files]]
