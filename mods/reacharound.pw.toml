@@ -1,0 +1,13 @@
+name = "Reacharound"
+filename = "reacharound+1.19-1.3.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/r3VgI4QN/versions/A9qyDAcG/reacharound%2B1.19-1.3.0.jar"
+hash-format = "sha512"
+hash = "8523736c5998722bf40af4b30aa6e8dd47d5308242fae01ada8d3aa58a07df63041cce737d85b917d96f789026982de065ea74d8ab7c1f8267d7070865cc709b"
+
+[update]
+[update.modrinth]
+mod-id = "r3VgI4QN"
+version = "A9qyDAcG"

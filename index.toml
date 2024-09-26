@@ -134,11 +134,6 @@ hash = "40e4c35a7c5482a2e609b1c4fb73fb8c2a442450ceabc6e8a6bfc8e452de607b"
 metafile = true
 
 [[files]]
-file = "mods/bridging-mod.pw.toml"
-hash = "437ca732a7c73e0dd55a847c6af30a0d5c6d89e52d225339ff016aa852c19f85"
-metafile = true
-
-[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "f48f5edfbffe096467470ec1e447cd1c7b284c1235f666d9cd1fa7dc18ed1c5b"
 metafile = true
@@ -195,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "68d9c6e0943edf3cdb03a487c9791beaccc75f70cf2e942175f119303caa73a7"
+hash = "710fa9dd083ed2b59ba3a466ffc3bb93601bbfb00a22a0bd012446ffff8c8410"
 metafile = true
 
 [[files]]
@@ -1014,6 +1009,11 @@ hash = "3b29f2c0650b0a904efc564c3c1b6300de1ec9662320757daf33176062b59a44"
 [[files]]
 file = "mods/quilt-kotlin-libraries-core-4.0.0+kt.1.9.23+flk.1.10.19.jar"
 hash = "ab3030ad25fa0ec84673c7db4ecd3f00404810f44e183b0c2715c5a9f9b06443"
+
+[[files]]
+file = "mods/reacharound.pw.toml"
+hash = "4d25a7ab7fe0c9202db23d5b4755ab0ea4aaa911ef233bced3c208a433646209"
+metafile = true
 
 [[files]]
 file = "mods/reborncore.pw.toml"
