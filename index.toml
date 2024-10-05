@@ -114,6 +114,11 @@ hash = "4fb039fe6f5f3aa0bb29d6d4b1add29b9f010b98bd571a3557ee1f49c03f02c3"
 metafile = true
 
 [[files]]
+file = "mods/better-combat.pw.toml"
+hash = "a916603a54b733d043bdd83d8d02a22eb108eae7c07cd90ece89cb237368721e"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "8eb05557badaa4b5c3435ea88a80898400bfbeeca4a0bfad5bf3e1665ba06254"
 metafile = true
@@ -975,6 +980,11 @@ metafile = true
 [[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "c74d416c82ad49518fe2adc62bc4836ff794662da40e68b3906146b08fa9be06"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "4b73e5e3d4ee89d14c8e2f41e702554cd4510525533b144843cfe68d97a8929a"
 metafile = true
 
 [[files]]
