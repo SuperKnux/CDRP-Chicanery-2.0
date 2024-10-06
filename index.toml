@@ -1041,11 +1041,6 @@ hash = "36d60030196b061425eddcad14e0e9edabb4079f5ebb2ff01e68ea6aa603448b"
 metafile = true
 
 [[files]]
-file = "mods/reincarnation-origins-broodmother.pw.toml"
-hash = "b3f59413c075240a112c277fccfb8fdc0f22156fa93f1f0f43acfb9bab881abb"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "2f0b7852043b2a4b21a6c69891343cfa8f6ff4767af8d37af4d2c30090810df0"
 metafile = true
