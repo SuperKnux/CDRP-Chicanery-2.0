@@ -354,6 +354,11 @@ hash = "cd3c44ebc02d7697d49c4608e9e9a46ba31aa76356728e109215d0a84b3a897a"
 metafile = true
 
 [[files]]
+file = "mods/effortless.pw.toml"
+hash = "e2a070e6dd4e08040902984cddd86fe50b61ed7072ef1e7d2ebf5bdf1fef048c"
+metafile = true
+
+[[files]]
 file = "mods/elytra-bounce.pw.toml"
 hash = "6399e619d3dcf7f0d88c014402441493511023e3ee68554b98dc7d11f6b5189f"
 metafile = true
@@ -888,6 +893,10 @@ hash = "001c288f98d7c910ab76e33071df836e6e73c541c4f4b85ad84e854115d2c90e"
 metafile = true
 
 [[files]]
+file = "mods/mt86plus_7.00_USB_Installer.exe"
+hash = "95914c54898139cf3608be721eb6b91d554ea0406ab45483596514c11d7ab9ef"
+
+[[files]]
 file = "mods/mythicmetals.pw.toml"
 hash = "d3466e109c3b8b3d03d633a881e0ac580f624b79dd07aaf2f96f97541dec58be"
 metafile = true
@@ -920,6 +929,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "297c25a71e5669da0375faa5a9e8125851e3aa236bdff3b43569231ac0387397"
+metafile = true
+
+[[files]]
+file = "mods/observable.pw.toml"
+hash = "1563a4628789b182cb8da8b648346bcec5fa9f585083c933673be76783d457d6"
 metafile = true
 
 [[files]]
