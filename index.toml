@@ -169,6 +169,11 @@ hash = "f00ce9496afe9a88c065001fd1dba5ea04bbe63428f3cfe866ada5b0df0e5e65"
 metafile = true
 
 [[files]]
+file = "mods/chipped.pw.toml"
+hash = "91b5664b7e6c111b27466d7823e3e7ca808b32cc3bed705419370672a693e31f"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "56a32de91578b848d860b82a7c91bbd960919bf544f3e336bcb4388c51c86580"
 metafile = true
@@ -519,6 +524,11 @@ hash = "c90c68883ba1b65907c7a86efa8e2d03fc043de88e9ee0226e73a45051663e22"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "58cd0691b3f2e80a1fe5ede3868b7d4f6b971a7fc4959a05b486d4693e89fa05"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-core.pw.toml"
 hash = "a3868561b3f87b28c31af39a4c0e292a665e84900768aa60af19a7465fe88e44"
 metafile = true
@@ -623,6 +633,11 @@ hash = "cc23485dcff4766ef2b54545648afd88cc45464d7ee7e2f002d8939e3656503f"
 metafile = true
 
 [[files]]
+file = "mods/highlight.pw.toml"
+hash = "dd0c149f675a276c907cb48c9e8b8ac1ddf6e6627b6a6787e60990c8aadc1bf4"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "d848358aa1775a0c5d71460dd3db78ade6a31cd9aabcace255ea8d8cfe39491c"
 metafile = true
@@ -710,6 +725,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "09007e1f9c7fafafab9c19d418a9e03f4eb652ff4f7237c5190d8819f29132db"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "4a6c5af4504209d9e6505190b62bb34c1f384bb58e48808b4d66f2c9bda46f1c"
 metafile = true
 
 [[files]]
@@ -814,7 +834,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-windows.pw.toml"
-hash = "94e0a4c2648e3e7afa87ee8dd1d8197368467b2dd648fbb69e7d3aa0a2cb6140"
+hash = "1710716a319809da6213f940352f6c73a22e519b4d133c3e98c21aa00bc225cf"
 metafile = true
 
 [[files]]
@@ -870,6 +890,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "83459b39b28c398569b7bf18ac831d2a4c0e794e6172ceb7ff603758d743a75e"
+metafile = true
+
+[[files]]
+file = "mods/more-geodes.pw.toml"
+hash = "4709c37de183da4926d6fa437b5cc67b0e37b18f4a9335631d7da09bdac540b9"
 metafile = true
 
 [[files]]
@@ -1008,6 +1033,11 @@ hash = "1044a7d818bec899677966697b389c9440c0dace56853ad0a79399a75d74036d"
 metafile = true
 
 [[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "00a411955f33abacc2633aeb034827e39badf9149eaec95a74cad4abd508dc58"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "08b782e0a0be2852821480fe41375f3c648db17493d95b426de6c82ce7fabaa2"
 metafile = true
@@ -1036,6 +1066,11 @@ hash = "e4badf81eabfe1f6cd95e36bc8e3d4a63281f7c97406be76437c2ef49e189f99"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "e10ac5a62e3aff6166459a1904ed95c60778c2d21d7d37210ddc6c48950e5604"
+metafile = true
+
+[[files]]
 file = "mods/recipe-essentials-forge-fabric.pw.toml"
 hash = "94b6c3c33810eb2ddb1ecf2fe5a26021d3704aee978b8515c02bffd9c6b6212a"
 metafile = true
@@ -1052,7 +1087,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "2f0b7852043b2a4b21a6c69891343cfa8f6ff4767af8d37af4d2c30090810df0"
+hash = "6ef98ea1944795367443a40cd033f9e109ed232b70c6082b9f707ee2e1c9e3cc"
 metafile = true
 
 [[files]]
@@ -1152,12 +1187,12 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "b2fa4833212029276dc77a61f544ed67a85a7b9da27418aaf88d66c01ada2017"
+hash = "d54fc485490fee136d6b0cfd1acd2b8eb32bd3ef7ce0c55e28a0966c067b1522"
 metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "2340b3bbcd3c9760b0173e8d3c2ecdc9a476e360cf1133c077a151605f69e0dd"
+hash = "5f553ef531567fba961f33a8eb926467f3b9d127adc25df458e73d2919eca721"
 metafile = true
 
 [[files]]
