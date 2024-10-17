@@ -893,10 +893,6 @@ hash = "001c288f98d7c910ab76e33071df836e6e73c541c4f4b85ad84e854115d2c90e"
 metafile = true
 
 [[files]]
-file = "mods/mt86plus_7.00_USB_Installer.exe"
-hash = "95914c54898139cf3608be721eb6b91d554ea0406ab45483596514c11d7ab9ef"
-
-[[files]]
 file = "mods/mythicmetals.pw.toml"
 hash = "d3466e109c3b8b3d03d633a881e0ac580f624b79dd07aaf2f96f97541dec58be"
 metafile = true
