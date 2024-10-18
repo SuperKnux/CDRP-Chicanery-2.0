@@ -239,11 +239,6 @@ hash = "176ec55e2699d7d849e153d92ac00fc10b2d94c2dac3438179b89239c8c06165"
 metafile = true
 
 [[files]]
-file = "mods/cosmetica.pw.toml"
-hash = "6ffb527e40a48b7773d5d3712f5f73f42ffd75527805f8eed4c90209244a8827"
-metafile = true
-
-[[files]]
 file = "mods/coyote-time.pw.toml"
 hash = "a6ad1643014f3e3349a39d7da8f422095866a15f02d41308c267fcdb75e988ca"
 metafile = true
@@ -360,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/effortless.pw.toml"
-hash = "e2a070e6dd4e08040902984cddd86fe50b61ed7072ef1e7d2ebf5bdf1fef048c"
+hash = "594d60caa63e59ba1f8a33a25bbe5af659e66308f4bafbb6d4941e814ddf13df"
 metafile = true
 
 [[files]]
@@ -928,6 +923,11 @@ hash = "7ba752516bbca7246f609662aa908218af7fcbcb6bd68d21759e61b25a4bbe62"
 metafile = true
 
 [[files]]
+file = "mods/nbt-autocomplete.pw.toml"
+hash = "3b96aea0389d45760ace51d27945aaad0bdebc52d977494c8dd3f313128c94d9"
+metafile = true
+
+[[files]]
 file = "mods/necronomicon.pw.toml"
 hash = "2142b66b84edf8ec556c4f77a0b406be26b8337132c568f148fc833ccd5d0cdc"
 metafile = true
@@ -1183,6 +1183,11 @@ metafile = true
 [[files]]
 file = "mods/styledplayerlist.pw.toml"
 hash = "f3b9580c806cf0a65dad8543af4c4a21e35eb50dc4fff63a1370c87a8041ecab"
+metafile = true
+
+[[files]]
+file = "mods/suggestion-tweaker.pw.toml"
+hash = "46a3ac265c2073f5f844a1fbcc1822c2ed897bc6415ba536bf57208c89d5a31a"
 metafile = true
 
 [[files]]

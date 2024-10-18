@@ -11,3 +11,7 @@ hash = "636ac25ee516dd8ee03b7512b09b223ccbd2534d5a06f4b0829b4dc7cc3893f938d65936
 [update.modrinth]
 mod-id = "EF68hjiy"
 version = "Ayn99Kqt"
+
+[option]
+optional = true
+description = "Slowly causes a memory leak. Use at your own risk."
