@@ -778,6 +778,11 @@ hash = "4bae876866283578cc4787f48adba2966fd4d242d1ca25b7df15ae82c2839ec0"
 metafile = true
 
 [[files]]
+file = "mods/longer-chat-history.pw.toml"
+hash = "aab39bc11858cc11a86ddc3d27ecc44d09fd05e1d34642d05b82fe56df08981e"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "ab76073f4631f8c8219783f495fe7a3c38c991bc3aab4ce49aa95c22b9e0ff75"
 metafile = true
@@ -1106,8 +1111,23 @@ hash = "ea66aabbaf290e7bea24f2341e711785745576f2f6b5ce96fb7dbf0a8e3b7603"
 metafile = true
 
 [[files]]
+file = "mods/server-chat-history.pw.toml"
+hash = "1f19254d83607f97bab548d6918c0234dc1b8243680fc9380fd2cc5e273d3f53"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "147dccec1642c3b91f3465d42ce675da5e1e9eb33d5af0301955a5138a519eae"
+metafile = true
+
+[[files]]
+file = "mods/sessility.pw.toml"
+hash = "3f02046f816fac2d233bda399bbfba0e5639c55fc7bd7833845628a29a78a05a"
+metafile = true
+
+[[files]]
+file = "mods/show-me-what-you-got.pw.toml"
+hash = "0bbf1759fd3f0fed60be4f09d1d2c6ef87405a9ad9de4be15c4692b55917c3a3"
 metafile = true
 
 [[files]]
@@ -1187,7 +1207,7 @@ metafile = true
 
 [[files]]
 file = "mods/suggestion-tweaker.pw.toml"
-hash = "46a3ac265c2073f5f844a1fbcc1822c2ed897bc6415ba536bf57208c89d5a31a"
+hash = "3f34c33984a22466b2d458557954b402b4107f21d4c93ed01f586c612a860a10"
 metafile = true
 
 [[files]]
@@ -1288,6 +1308,11 @@ metafile = true
 [[files]]
 file = "mods/unloaded-activity.pw.toml"
 hash = "b66b6eeaa3ae7fae3cb62aba7e0fecfa960dca5cdc2206a8f87b30bf0b43bc30"
+metafile = true
+
+[[files]]
+file = "mods/vinurl.pw.toml"
+hash = "5e0d632def85d09434f7397cce7e9323dccbccb1d58292d4d4df974db9ebc48e"
 metafile = true
 
 [[files]]
