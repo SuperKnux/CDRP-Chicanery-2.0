@@ -1351,6 +1351,11 @@ hash = "848a4d3cbbcfe6616becfc5190210d5edac0f01279088f0bb43900cae7ee4439"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "719da66ac6adbf00ace4a021f1bfcd6aca271b16caa40629de9e73a79b844905"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-map-chest-tracker-integration.pw.toml"
 hash = "dff81685572183abeeabd9934a92ae54dcef3a3c09d2aa55f63f3971fcc2e714"
 metafile = true
