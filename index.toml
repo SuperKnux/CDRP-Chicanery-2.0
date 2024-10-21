@@ -139,11 +139,6 @@ hash = "40e4c35a7c5482a2e609b1c4fb73fb8c2a442450ceabc6e8a6bfc8e452de607b"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "bec132aa3c148776df4f1e6dd3357657b0ace25b3104084692704cbe87d42002"
-metafile = true
-
-[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "f48f5edfbffe096467470ec1e447cd1c7b284c1235f666d9cd1fa7dc18ed1c5b"
 metafile = true
@@ -336,6 +331,11 @@ metafile = true
 [[files]]
 file = "mods/desired-servers.pw.toml"
 hash = "4d5343dabb6373e3de46eb0dc459e75a940ae4fce47b902c065b96d20b745c53"
+metafile = true
+
+[[files]]
+file = "mods/dimthread.pw.toml"
+hash = "55f26c6bffd3580b794df36265fc6cbc69156966578130dd07d6f5ee31c3975d"
 metafile = true
 
 [[files]]
