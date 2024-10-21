@@ -339,11 +339,6 @@ hash = "4d5343dabb6373e3de46eb0dc459e75a940ae4fce47b902c065b96d20b745c53"
 metafile = true
 
 [[files]]
-file = "mods/dimthread.pw.toml"
-hash = "55f26c6bffd3580b794df36265fc6cbc69156966578130dd07d6f5ee31c3975d"
-metafile = true
-
-[[files]]
 file = "mods/do-api.pw.toml"
 hash = "6b87bcb240f0b644a4b76de151f94665e8e2b4365efbe404a20f2029229148df"
 metafile = true
