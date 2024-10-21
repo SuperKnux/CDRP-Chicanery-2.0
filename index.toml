@@ -144,11 +144,6 @@ hash = "bec132aa3c148776df4f1e6dd3357657b0ace25b3104084692704cbe87d42002"
 metafile = true
 
 [[files]]
-file = "mods/c3h6n6o6.pw.toml"
-hash = "9d1284968548a64b6c64ec05f37f495db14a3ab469dfefdb2ac944b8e5a191f2"
-metafile = true
-
-[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "f48f5edfbffe096467470ec1e447cd1c7b284c1235f666d9cd1fa7dc18ed1c5b"
 metafile = true
@@ -715,11 +710,6 @@ metafile = true
 [[files]]
 file = "mods/kettle.pw.toml"
 hash = "045c3ccfded9f592a16eae01d10414807e7577e85ecbd268b5d0c4802215099b"
-metafile = true
-
-[[files]]
-file = "mods/koro-utils-lib.pw.toml"
-hash = "5440d41fdeb9ada6707e7c9aebfb36327decc133955b15322fd24ef864fa6c12"
 metafile = true
 
 [[files]]
