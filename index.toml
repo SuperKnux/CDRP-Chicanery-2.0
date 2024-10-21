@@ -139,6 +139,16 @@ hash = "40e4c35a7c5482a2e609b1c4fb73fb8c2a442450ceabc6e8a6bfc8e452de607b"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "bec132aa3c148776df4f1e6dd3357657b0ace25b3104084692704cbe87d42002"
+metafile = true
+
+[[files]]
+file = "mods/c3h6n6o6.pw.toml"
+hash = "9d1284968548a64b6c64ec05f37f495db14a3ab469dfefdb2ac944b8e5a191f2"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "f48f5edfbffe096467470ec1e447cd1c7b284c1235f666d9cd1fa7dc18ed1c5b"
 metafile = true
@@ -331,6 +341,11 @@ metafile = true
 [[files]]
 file = "mods/desired-servers.pw.toml"
 hash = "4d5343dabb6373e3de46eb0dc459e75a940ae4fce47b902c065b96d20b745c53"
+metafile = true
+
+[[files]]
+file = "mods/dimthread.pw.toml"
+hash = "55f26c6bffd3580b794df36265fc6cbc69156966578130dd07d6f5ee31c3975d"
 metafile = true
 
 [[files]]
@@ -700,6 +715,11 @@ metafile = true
 [[files]]
 file = "mods/kettle.pw.toml"
 hash = "045c3ccfded9f592a16eae01d10414807e7577e85ecbd268b5d0c4802215099b"
+metafile = true
+
+[[files]]
+file = "mods/koro-utils-lib.pw.toml"
+hash = "5440d41fdeb9ada6707e7c9aebfb36327decc133955b15322fd24ef864fa6c12"
 metafile = true
 
 [[files]]
