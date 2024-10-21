@@ -139,6 +139,11 @@ hash = "40e4c35a7c5482a2e609b1c4fb73fb8c2a442450ceabc6e8a6bfc8e452de607b"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "bec132aa3c148776df4f1e6dd3357657b0ace25b3104084692704cbe87d42002"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "f48f5edfbffe096467470ec1e447cd1c7b284c1235f666d9cd1fa7dc18ed1c5b"
 metafile = true
@@ -306,11 +311,6 @@ metafile = true
 [[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "701c263080a51a9238ae993eff6c258326ebffa7b3a794224badb2317174c8ad"
-metafile = true
-
-[[files]]
-file = "mods/cupboard.pw.toml"
-hash = "c4aa3f125ea168d49c3a47986bac24d54e23e83bb630b5004aff6eb08404d2ed"
 metafile = true
 
 [[files]]
@@ -1086,11 +1086,6 @@ hash = "e10ac5a62e3aff6166459a1904ed95c60778c2d21d7d37210ddc6c48950e5604"
 metafile = true
 
 [[files]]
-file = "mods/recipe-essentials-forge-fabric.pw.toml"
-hash = "94b6c3c33810eb2ddb1ecf2fe5a26021d3704aee978b8515c02bffd9c6b6212a"
-metafile = true
-
-[[files]]
 file = "mods/redstonepen.pw.toml"
 hash = "281a929d68b9ed6ab234b0e4c1c44dc687b801fa3d91dca3617145f5423e44b7"
 metafile = true
@@ -1158,11 +1153,6 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "9a22c97507e34194fd67eb3b187c0b13ad020a931b0866867e684d5223220c61"
-metafile = true
-
-[[files]]
-file = "mods/smooth-chunk-save.pw.toml"
-hash = "a40876bff3eec24a92727e57ac63fb9e05966f317016f9e7571107292502c254"
 metafile = true
 
 [[files]]
